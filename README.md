@@ -1,11 +1,7 @@
-git 
-git config --global user.email "nghiavu2k2abc@gmail.com"
-git config --global user.name "Nghia"
+[Git](contents/git.md)
 
 vscode
 snip
 
 
 
-
-[Git](contents/git.md)
