@@ -6,16 +6,19 @@
 
 [python](contents/python/python.md)
 
-<!-- vn https://www.youtube.com/watch?v=SB_cjB4yBZc -->
+<!-- https://www.youtube.com/watch?v=SB_cjB4yBZc -->
 
 [copyq](contents/copyq/copyq.md)
 
-<!-- docker -->
+<!-- https://www.youtube.com/watch?v=1_l-TNKPw-0 -->
+
+
+[fsearch](contents/fsearch/fsearch.md)
+ 
 
 
 
-<!-- search everything  fsearch-0.2.3 -->
-
+<!-- https://geekflare.com/how-to-install-latex-on-ubuntu/ -->
 
 
 <!-- node -->
