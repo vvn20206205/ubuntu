@@ -13,12 +13,19 @@
 <!-- https://www.youtube.com/watch?v=1_l-TNKPw-0 -->
 
 
-[fsearch](contents/fsearch/fsearch.md)
+<!-- [fsearch](contents/fsearch/fsearch.md) -->
+
+
+
+
+
+[latex](contents/latex/latex.md)
  
 
 
 
-<!-- https://geekflare.com/how-to-install-latex-on-ubuntu/ -->
 
 
 <!-- node -->
+
+find . -name "node_modules" -type d -prune -exec rm -rf '{}' +
