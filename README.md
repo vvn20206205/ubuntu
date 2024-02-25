@@ -6,25 +6,15 @@
 
 [python](contents/python/python.md)
 
-<!-- https://www.youtube.com/watch?v=SB_cjB4yBZc -->
+<!-- vn https://www.youtube.com/watch?v=SB_cjB4yBZc -->
 
 [copyq](contents/copyq/copyq.md)
 
-<!-- https://www.youtube.com/watch?v=1_l-TNKPw-0 -->
-
+[docker](contents/docker/docker.md)
 
 <!-- [fsearch](contents/fsearch/fsearch.md) -->
 
-
-
-
-
 [latex](contents/latex/latex.md)
- 
-
-
-
-
 
 <!-- node -->
 
