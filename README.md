@@ -16,6 +16,6 @@
 
 [latex](contents/latex/latex.md)
 
-<!-- node -->
+<!-- node .tar-->
 
 find . -name "node_modules" -type d -prune -exec rm -rf '{}' +
