@@ -4,12 +4,7 @@ Cài đặt
 sudo apt update
 sudo apt install git
 ```
-
-Kiểm tra
-
-```
-git --version
-```
+ 
 
 Thêm thông tin git
 

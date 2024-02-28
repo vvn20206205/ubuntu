@@ -4,12 +4,7 @@ Cài đặt
 sudo apt update
 sudo apt install texlive-full
 ```
-
-Kiểm tra
-
-```
-latex --version
-```
+ 
 
 Thử file `main.tex`
 

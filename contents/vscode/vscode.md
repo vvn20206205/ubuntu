@@ -7,9 +7,4 @@ Cài đặt
 ```
 sudo dpkg -i nghia.deb
 ```
-
-Kiểm tra
-
-```
-code --version
-```
+ 
