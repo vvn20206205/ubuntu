@@ -12,7 +12,7 @@
 
 [docker](contents/docker/docker.md)
 
-<!-- [fsearch](contents/fsearch/fsearch.md) -->
+[fsearch](contents/fsearch/fsearch.md)
 
 [latex](contents/latex/latex.md)
 
